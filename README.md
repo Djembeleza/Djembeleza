@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋, I am Djembeleza
+
+I am a web developer. My hobbies are coding and playing video games. I started coding with C++ but I am usually playing around with languages such as Python and JavaScript. I also know HTML and CSS enough so I can prototype my projects. 
+
+I got into web development because most of the technology is accessible and also I had a desire to build my web applications. 
 
 <!--
 **Djembeleza/Djembeleza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
